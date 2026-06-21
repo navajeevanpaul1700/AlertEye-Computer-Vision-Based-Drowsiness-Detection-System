@@ -1,3 +1,41 @@
-# Blink-Safe
+# AlertEye – Computer Vision Based Drowsiness Detection System
 
-Blink-Safe is a real-time eye monitoring project with a Python backend and a Next.js frontend. The backend uses face landmark detection to track blinks and alert when drowsiness or inattentiveness is detected. The frontend offers a dashboard, monitoring view, and settings page for users to view live status and alerts. The code is organized into `blinksafe-backend` for detection logic and `frontend` for the user interface. This repository provides a complete safety monitoring application that combines computer vision with an interactive web experience.
+## Overview
+
+AlertEye is a real-time driver drowsiness detection system developed using **Python, OpenCV, Computer Vision, and Next.js**. The application continuously monitors eye movements and detects signs of fatigue using facial landmark detection techniques. When drowsiness is identified, the system generates alerts to improve driver safety.
+
+## Features
+
+- Real-time eye monitoring
+- Drowsiness detection using Computer Vision
+- Face landmark detection
+- Live alert generation
+- Interactive Next.js dashboard
+- Python backend for detection logic
+
+## Technologies Used
+
+- Python
+- OpenCV
+- Computer Vision
+- Next.js
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+
+- `blinksafe-backend/` – Python detection logic
+- `frontend/` – Next.js user interface
+
+## Future Improvements
+
+- Cloud deployment
+- User authentication
+- Performance optimization
+- Mobile support
+
+## Author
+
+**Tekumuri Nava Jeevan Paul**
