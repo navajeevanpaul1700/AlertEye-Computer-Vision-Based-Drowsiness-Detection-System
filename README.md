@@ -1,5 +1,9 @@
 # AlertEye – Computer Vision Based Drowsiness Detection System
 
+## 🚀 Live Demo
+
+🔗 https://alert-eye-computer-vision-based-dro.vercel.app
+
 ## Overview
 
 AlertEye is a real-time driver drowsiness detection system developed using **Python, OpenCV, Computer Vision, and Next.js**. The application continuously monitors eye movements and detects signs of fatigue using facial landmark detection techniques. When drowsiness is identified, the system generates alerts to improve driver safety.
